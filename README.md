@@ -26,7 +26,7 @@
 
 class Pratik
   ROLE     = "Ruby on Rails Developer"
-  EXP      = "3+ years"
+  EXP      = "3.6+ years"
   LOCATION = "Jaipur, India"
 
   STACK = {
