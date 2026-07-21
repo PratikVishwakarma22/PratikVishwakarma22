@@ -4,7 +4,7 @@
 
 # 👋 Pratik Vishwakarma
 
-**`Ruby on Rails Developer · 3+ Years · Backend Systems · APIs · Microservices`**
+**`Ruby on Rails Developer · 3.6+ Years · Backend Systems · APIs · Microservices`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Engineer+@+Thrillophilia;Building+APIs+that+hold+up+under+real-world+load;Rails+%7C+Sidekiq+%7C+PostgreSQL+%7C+Redis+%7C+React;Shipping+things+that+have+direct+impact." alt="Typing SVG" />
 
